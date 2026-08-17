@@ -122,12 +122,10 @@ This project answers questions such as:
 ## 📊 Dashboard Preview
 
 ### Sales Overview
-
-![Sales Overview](./Dashboard/Sales_Overview.png)
+![Sales Overview](./Sales%20Overview.png)
 
 ### Customer Insights
-
-![Customer Insights](./Dashboard/Customer_Insights.png)
+![Customer Insights](./Customer%20Insight.png)
 
 
 
