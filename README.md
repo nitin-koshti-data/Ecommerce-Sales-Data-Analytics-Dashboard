@@ -126,7 +126,9 @@ This project answers questions such as:
 ![Sales Overview](./Dashboard/Sales_Overview.png)
 
 ### Customer Insights
-Dashboard/Customer_Insights.png
+
+![Customer Insights](./Dashboard/Customer_Insights.png)
+
 
 
 ## 🔄 Project Workflow
