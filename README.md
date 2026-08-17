@@ -126,6 +126,7 @@ This project answers questions such as:
 
 ### Customer Insights
 ![Customer Insights](Dashboard/Customer_Insights.png)
+
 ---
 
 ## 🔄 Project Workflow
